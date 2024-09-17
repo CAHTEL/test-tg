@@ -1,0 +1,20 @@
+{
+    "name": "ortnec/mycourse",
+    "autoload": {
+        "files": [
+            "src/Caclulator.php",
+            "src/Reader.php",
+            "src/Writer.php",
+            "src/Printer.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Aleksandr",
+            "email": "aleksandr.p@clips4sale.com"
+        }
+    ],
+    "require": {
+      "ext-mbstring": "*"
+    }
+}
